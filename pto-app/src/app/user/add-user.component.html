@@ -1,0 +1,26 @@
+<div class="col-md-6">
+    <h2 class="text-center">Add User</h2>
+  <form>
+    <div class="form-group">
+      <label for="firstName">First Name:</label>
+      <input [(ngModel)]="user.firstName" placeholder="First Name" name="first_name" class="form-control" id="firstName">
+    </div>
+  
+    <div class="form-group">
+      <label for="lastName">Last Name:</label>
+     <input [(ngModel)]="user.lastName" placeholder="Last name" name="last_name" class="form-control" id="lastName">
+    </div>
+    <div class="form-group">
+        <label for="office">Office:</label>
+        <input [(ngModel)]="user.office" placeholder="Office Location" name="office" class="form-control" id="office">
+      </div>
+    
+      <div class="form-group">
+        <label for="pto_bal">PTO Balance:</label>
+       <input [(ngModel)]="user.pto_bal" placeholder="Request PTO" name="pto_bal" class="form-control" id="pto_bal">
+      </div>
+
+    <button class="btn btn-success" (click)="createUser()">Create</button>
+  </form>
+  </div>
+  

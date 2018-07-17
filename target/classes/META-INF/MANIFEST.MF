@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: pto-prototype-mysql
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: audreychae
+Implementation-Vendor-Id: com.pto.prototype
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/pto-prototype-mysql
+Created-By: Maven Integration for Eclipse
+
