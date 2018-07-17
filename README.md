@@ -22,11 +22,9 @@ Front-end:
 Storage:
 - MySQL
 ## Written by:
-Audrey Chae and Jinsoo Choi
+Audrey Chae
 
 ## Date Created:
-May 22 2016
-##Date Modified:
-May 6 2018
+June 30, 2018
 
 
